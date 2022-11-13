@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'BNR';
+    src: url(../fonds/BebasNeue-Regular.ttf);
+}
+@font-face {
+    font-family: 'OSR';
+    src: url(../fonds/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: 'OSB';
+    src: url(../fonds/OpenSans-Bold.ttf);
+}
+@font-face {
+    font-family: 'OSEB';
+    src: url(../fonds/OpenSans-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'OSSB';
+    src: url(../fonds/OpenSans-SemiBold.ttf);
+}
